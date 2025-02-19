@@ -84,7 +84,7 @@ p { /* here `p` is selector */
     - block
     - inline
     - inline-block
-  - inner diplay type
+  - inner display type
     - flex
     - grid
 - positioning
